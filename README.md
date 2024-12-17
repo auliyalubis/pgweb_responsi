@@ -22,4 +22,5 @@ Ina-Geoportal https://tanahair.indonesia.go.id/portal-web/
 ![Screenshot 2024-12-16 174535](https://github.com/user-attachments/assets/1584a1f2-3b87-44e6-9e43-1aa430d73441)
 ![Screenshot 2024-12-16 174607](https://github.com/user-attachments/assets/b9293bdc-9675-4b50-af7d-1f48b58d183d)
 ![image](https://github.com/user-attachments/assets/f158f3fc-e2f4-4da1-ab8e-ad180d7bdc44)
-
+![Screenshot 2024-12-17 071534](https://github.com/user-attachments/assets/99ed13fb-1d8b-416d-89fb-019f79dfc342)
+![image](https://github.com/user-attachments/assets/67dc9fd9-2484-4a82-aa5b-63ec497ebd79)
